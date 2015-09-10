@@ -14,4 +14,8 @@ to change it to. Strings are case sensitive so don't forget variations of each w
 
 * May not work properly with IE 8 or less and tables. 
 
+#### Change history
+
+v0.01 Initial creation. 
+
 
