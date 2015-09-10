@@ -8,4 +8,4 @@ Edit the variable arReplacements. The first string is the string to look for, th
 to change it to. Strings are case sensitive so don't forget variations of each word with initial caps. 
 
 * "man":"blue" means change "man" to "blue" in the whole page. This will not change "Man" to "blue". 
-* Words with apostrophes must come before singular words. So "man's" must come before "man". 
+* In variable arReplacements, words with apostrophes must come before singular words. So "man's" must come before "man". 
