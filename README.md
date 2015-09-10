@@ -18,4 +18,5 @@ to change it to. Strings are case sensitive so don't forget variations of each w
 
 v0.01 Initial creation. 
 
+v0.03 Works but not on whole words, it changes all strings in a document.
 
