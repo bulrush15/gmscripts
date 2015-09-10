@@ -9,3 +9,9 @@ to change it to. Strings are case sensitive so don't forget variations of each w
 
 * "man":"blue" means change "man" to "blue" in the whole page. This will not change "Man" to "blue". 
 * In variable arReplacements, words with apostrophes must come before singular words. So "man's" must come before "man". 
+
+#### Known problems
+
+* May not work properly with IE 9 and tables. 
+
+
