@@ -12,6 +12,6 @@ to change it to. Strings are case sensitive so don't forget variations of each w
 
 #### Known problems
 
-* May not work properly with IE 9 and tables. 
+* May not work properly with IE 8 or less and tables. 
 
 
