@@ -18,5 +18,5 @@ to change it to. Strings are case sensitive so don't forget variations of each w
 
 v0.01 Initial creation. 
 
-v0.03 Works but not on whole words, it changes all strings in a document. I.e. change 'man' to 'blue' and we end up changing 'manners' to 'blueners'. 
+v0.03 Works but on whole words, but it uses 2 arrays: fromArr[] and toArr[].
 
